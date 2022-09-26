@@ -14,3 +14,9 @@ Please read and follow the steps in the [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## License
 See [LICENSE](LICENSE)
+
+## Video turtorial
+https://www.youtube.com/watch?v=jWS2te_65cM
+
+## Turtorial
+https://firebase.google.com/codelabs/firebase-web#0
