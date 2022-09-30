@@ -23,3 +23,6 @@ https://firebase.google.com/codelabs/firebase-web#0
 
 ## Deployed at
 https://friendly-chat-e8b14.web.app/
+
+## Chat by js
+https://www.cometchat.com/tutorials/how-to-build-a-chat-app-with-firebase
